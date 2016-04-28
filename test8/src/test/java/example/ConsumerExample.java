@@ -1,6 +1,6 @@
 package example;
 
-//0.8 버전에서 성공
+//0.8 버전에서 성공 수정
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
